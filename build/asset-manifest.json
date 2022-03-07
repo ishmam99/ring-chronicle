@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.056ecbee.css",
+    "main.js": "/static/js/main.4cf7b04d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/new1.jpg": "/static/media/new1.fa0c584e0b8f84a2b7d2.jpg",
+    "static/media/511.jpg": "/static/media/511.8c9a5d1eea90ecad3e35.jpg",
+    "static/media/bggg.png": "/static/media/bggg.c4821714ade22557b5c0.png",
+    "static/media/1.png": "/static/media/1.72634bec28a9db649a5b.png",
+    "static/media/image 13.png": "/static/media/image 13.4b212cbd8ab0b7291b6a.png",
+    "static/media/2b.jpg": "/static/media/2b.2b9b7856fde505e6de8a.jpg",
+    "static/media/Am.jpg": "/static/media/Am.43bfd86b21be2624984e.jpg",
+    "static/media/3.jpg": "/static/media/3.344abb5e68bb6921ab23.jpg",
+    "static/media/AT.jpg": "/static/media/AT.72f89c334f2e4d76e13b.jpg",
+    "static/media/GroupToken.png": "/static/media/GroupToken.928eefd21d8042040ca5.png",
+    "static/media/logo.jpg": "/static/media/logo.2ca646ad0b46d2ce70ce.jpg",
+    "static/media/WhatsApp Image 2022-03-05 at 11.44.59 AM.jpeg": "/static/media/WhatsApp Image 2022-03-05 at 11.44.59 AM.20308e2962b5e0a11371.jpeg",
+    "index.html": "/index.html",
+    "main.056ecbee.css.map": "/static/css/main.056ecbee.css.map",
+    "main.4cf7b04d.js.map": "/static/js/main.4cf7b04d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056ecbee.css",
+    "static/js/main.4cf7b04d.js"
+  ]
+}
