@@ -52,7 +52,7 @@ header {
 
   color: black;
   text-decoration: none;
-  background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+  background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
 }
 .Header_button a i {
   margin-right: 5px;
@@ -232,11 +232,20 @@ section p {
   font-family: cursive;
   text-align: center;
 }
+.button{
+  text-decoration: none;
+  padding: 10px 40px;
+  font-size: 20px;
+  background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
+  color: black;
+  border-radius: 5px;
+  font-family: Work Sans;
+}
 section a {
   text-decoration: none;
   padding: 10px 40px;
   font-size: 20px;
-  background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+  background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
   color: black;
   border-radius: 50px;
   font-family: Work Sans;
@@ -293,7 +302,7 @@ section a {
   display: inline-block;
   font-size: 40px;
   padding: 0px 0px 20px 0px;
-  border-bottom: 6px solid #b14286;
+  border-bottom: 6px solid #FAB340;
   margin: 0;
 }
 .A_text p {
@@ -369,7 +378,7 @@ section a {
   padding: 15px 50px;
   color: black;
   text-decoration: none;
-  background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+  background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
   font-family: Work Sans;
   border-radius: 50px;
   font-size: 25px;
@@ -472,7 +481,7 @@ section a {
     padding: 15px 30px;
     color: black;
     text-decoration: none;
-    background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+    background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
     font-family: Work Sans;
     border-radius: 50px;
     font-size: 20px;
@@ -506,7 +515,7 @@ section a {
   color: #f3e9c3;
 }
 .ETP_text h1::after {
-  background-color: #9347b2;
+  background-color: #FAB340;
   content: ' ';
   display: flex;
   width: 90%;
@@ -523,7 +532,7 @@ section a {
     font-size: 6vw;
   }
   .ETP_text h1::after {
-    background-color: #9347b2;
+    background-color: #FAB340;
     content: ' ';
     display: flex;
     width: 50%;
@@ -637,7 +646,7 @@ align-items: center; */
 .Card a {
   padding: 8px 20px;
   text-decoration: none;
-  background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+  background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
   font-family: Work Sans;
   border-radius: 50px;
   font-size: 16px;
@@ -807,7 +816,7 @@ align-items: center; */
 }
 .NFT_b a {
   padding: 10px;
-  background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+  background: linear-gradient(180deg, #2147992f 12%, #ffffff 100%);
   border-radius: 50%;
   margin-left: 20px;
 }
@@ -842,7 +851,7 @@ align-items: center; */
   }
   .NFT_b a {
     padding: 8px;
-    background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+    background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
     border-radius: 50%;
     margin-left: 20px;
   }
@@ -975,7 +984,7 @@ footer {
 }
 .F_iconss a {
   padding: 8px;
-  background: linear-gradient(180deg, #9347b2 12%, #ffffff 100%);
+  background: linear-gradient(180deg, #FAB340 12%, #ffffff 100%);
   border-radius: 50%;
   margin-left: 20px;
 }
@@ -1041,7 +1050,7 @@ footer {
   font-weight: 700;
   font-size: 58px;
   line-height: 130px;
-  border-bottom: 6px solid #9347b2;
+  border-bottom: 6px solid #FAB340;
   display: inline-block;
   font-size: 40px;
 }
@@ -1119,7 +1128,7 @@ footer {
 
   color: #f5ffef;
   padding: 10px;
-  border-bottom: 10px solid #9347b2;
+  border-bottom: 10px solid #FAB340;
   display: inline-block;
 }
 .AVR_L p {

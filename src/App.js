@@ -62,6 +62,10 @@ function App() {
                 <Nav.Link eventKey={2} href='#memes'>
                   News
                 </Nav.Link>
+                <Nav.Link>
+                  
+                  <a className="button">PLAY NOW</a>
+                </Nav.Link>
               </Nav>
             </Navbar.Collapse>
           </Container>
@@ -148,53 +152,51 @@ function App() {
         </div>
       </div>
       <div className='About_us '>
-       
-          <div className='row'>
-            <div className='col-md-6'>
-              <div className='About_L'>
-                <div className='Dotted_1'></div>
-                <div className='L_Top'></div>
-                <div className='L_Middle'></div>
-                <div className='L_Bottom'></div>
-                <div className='Dotted_2'></div>
-              </div>
+        <div className='row'>
+          <div className='col-md-6'>
+            <div className='About_L'>
+              <div className='Dotted_1'></div>
+              <div className='L_Top'></div>
+              <div className='L_Middle'></div>
+              <div className='L_Bottom'></div>
+              <div className='Dotted_2'></div>
             </div>
-            <div className='col-md-6'>
-              <div className='About_R'>
-                <div className='Dotted_3'></div>
-                <div className='A_text'>
-                  <h1>About Us</h1>
-                  <p>
-                    lorem ipsum dolor sit amet, consectetur adiplorem ipsum
-                    dolor sit amet, consectetur adiplorem ipsum dolor sit amet,
-                    consectetur adiplorem ipsum dolor sit amet, consectetur
-                    adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum
-                    dolor sit amet, consectetur adiplorem ipsum dolor sit amet,
-                    consectetur adiplorem ipsum dolor sit amet, consectetur
-                    adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum
-                    dolor sit amet, consectetur adiplorem ipsum dolor sit amet,
-                    consectetur adip
-                  </p>
-                </div>
-                <div className='A_Links'>
-                  <a href='/'>
-                    <i class='fa-brands fa-twitter'></i>
-                  </a>
-                  <a href='/'>
-                    <i class='fa-brands fa-instagram'></i>
-                  </a>
+          </div>
+          <div className='col-md-6'>
+            <div className='About_R'>
+              <div className='Dotted_3'></div>
+              <div className='A_text'>
+                <h1>About Us</h1>
+                <p>
+                  lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor
+                  sit amet, consectetur adiplorem ipsum dolor sit amet,
+                  consectetur adiplorem ipsum dolor sit amet, consectetur
+                  adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum
+                  dolor sit amet, consectetur adiplorem ipsum dolor sit amet,
+                  consectetur adiplorem ipsum dolor sit amet, consectetur
+                  adiplorem ipsum dolor sit amet, consectetur adiplorem ipsum
+                  dolor sit amet, consectetur adiplorem ipsum dolor sit amet,
+                  consectetur adip
+                </p>
+              </div>
+              <div className='A_Links'>
+                <a href='/'>
+                  <i class='fa-brands fa-twitter'></i>
+                </a>
+                <a href='/'>
+                  <i class='fa-brands fa-instagram'></i>
+                </a>
 
-                  <a href='/'>
-                    <i class='fa-brands fa-github-alt'></i>
-                  </a>
-                </div>
-                <div className='A_button'>
-                  <a href='/'>Join Our Community</a>
-                </div>
+                <a href='/'>
+                  <i class='fa-brands fa-github-alt'></i>
+                </a>
+              </div>
+              <div className='A_button'>
+                <a href='/'>Join Our Community</a>
               </div>
             </div>
           </div>
-       
+        </div>
       </div>
       <div className='token'>
         <h1 className='token '>Tokenomics</h1>
