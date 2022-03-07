@@ -286,7 +286,7 @@ section a {
   width: 55%;
   height: 100%;
   position: relative;
-  padding: 10px;
+  padding-right: 10px;
 }
 .A_text h1 {
   color: #f3e9c3;
